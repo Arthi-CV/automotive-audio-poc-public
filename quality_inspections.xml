@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QualityInspectionBatch>
+  <InspectionRecord>
+    <SourceSystem>QUALITY_MES</SourceSystem>
+    <BatchID>QC-BATCH-20261014-001</BatchID>
+    <InspectionID>QC-10001</InspectionID>
+    <ProductID>AUD-10001</ProductID>
+    <InspectionDate>2026-10-13</InspectionDate>
+    <InspectionType>INCOMING</InspectionType>
+    <SampleQuantity>50</SampleQuantity>
+    <DefectQuantity>1</DefectQuantity>
+    <DefectCode>COSMETIC_DAMAGE</DefectCode>
+    <Result>PASS</Result>
+    <InspectorID>EMP-001</InspectorID>
+    <LastUpdatedTimestamp>2026-10-13T15:20:00Z</LastUpdatedTimestamp>
+  </InspectionRecord>
+  <InspectionRecord>
+    <SourceSystem>QUALITY_MES</SourceSystem>
+    <BatchID>QC-BATCH-20261014-001</BatchID>
+    <InspectionID>QC-10002</InspectionID>
+    <ProductID>AUD-10002</ProductID>
+    <InspectionDate>2026-10-14</InspectionDate>
+    <InspectionType>INCOMING</InspectionType>
+    <SampleQuantity>20</SampleQuantity>
+    <DefectQuantity>2</DefectQuantity>
+    <DefectCode>AUDIO_DISTORTION</DefectCode>
+    <Result>FAIL</Result>
+    <InspectorID>EMP-002</InspectorID>
+    <LastUpdatedTimestamp>2026-10-14T13:45:00Z</LastUpdatedTimestamp>
+  </InspectionRecord>
+</QualityInspectionBatch>
