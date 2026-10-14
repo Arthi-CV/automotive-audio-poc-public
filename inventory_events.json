@@ -1,0 +1,60 @@
+{
+  "source_system": "WAREHOUSE_WMS",
+  "batch_id": "INV-BATCH-20261014-001",
+  "events": [
+    {
+      "event_id": "EVT-000001",
+      "event_type": "GOODS_RECEIVED",
+      "product_id": "AUD-10001",
+      "warehouse_id": "WH-BLR-01",
+      "quantity": 100,
+      "event_timestamp_utc": "2026-10-13T07:30:00Z",
+      "last_updated_timestamp": "2026-10-13T07:35:00Z"
+    },
+    {
+      "event_id": "EVT-000002",
+      "event_type": "ORDER_RESERVED",
+      "product_id": "AUD-10002",
+      "warehouse_id": "WH-MAA-01",
+      "quantity": 5,
+      "event_timestamp_utc": "2026-10-13T07:40:00Z",
+      "last_updated_timestamp": "2026-10-13T07:42:00Z"
+    },
+    {
+      "event_id": "EVT-000003",
+      "event_type": "GOODS_DISPATCHED",
+      "product_id": "AUD-10004",
+      "warehouse_id": "WH-DEL-01",
+      "quantity": 3,
+      "event_timestamp_utc": "2026-10-14T08:15:00Z",
+      "last_updated_timestamp": "2026-10-14T08:20:00Z"
+    },
+    {
+      "event_id": "EVT-000004",
+      "event_type": "STOCK_ADJUSTMENT",
+      "product_id": "AUD-10005",
+      "warehouse_id": "WH-BLR-01",
+      "quantity": -2,
+      "event_timestamp_utc": "2026-10-14T12:30:00Z",
+      "last_updated_timestamp": "2026-10-14T12:35:00Z"
+    },
+    {
+      "event_id": "EVT-000005",
+      "event_type": "GOODS_RECEIVED",
+      "product_id": "AUD-10003",
+      "warehouse_id": "WH-BLR-01",
+      "quantity": 25,
+      "event_timestamp_utc": "2026-10-14T14:00:00Z",
+      "last_updated_timestamp": "2026-10-14T14:05:00Z"
+    },
+    {
+      "event_id": "EVT-000006",
+      "event_type": "GOODS_DISPATCHED",
+      "product_id": "AUD-10008",
+      "warehouse_id": "WH-BLR-01",
+      "quantity": 4,
+      "event_timestamp_utc": "2026-10-13T15:30:00Z",
+      "last_updated_timestamp": "2026-10-13T15:35:00Z"
+    }
+  ]
+}

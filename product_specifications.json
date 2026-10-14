@@ -1,0 +1,194 @@
+{
+  "source_system": "AUTOMOTIVE_PIM",
+  "schema_version": "1.0",
+  "products": [
+    {
+      "product_id": "AUD-10001",
+      "model_number": "HS69-PRO",
+      "category": "Speaker",
+      "audio": {
+        "power_rms_w": 60,
+        "channel_count": 2,
+        "frequency_min_hz": 45,
+        "frequency_max_hz": 22000,
+        "impedance_ohm": 4
+      },
+      "connectivity": {
+        "bluetooth_supported": true,
+        "bluetooth_version": "5.3",
+        "usb_supported": false
+      },
+      "features": ["Coaxial", "Two-way"],
+      "last_updated_timestamp": "2026-10-13T10:15:00Z"
+    },
+    {
+      "product_id": "AUD-10002",
+      "model_number": "JBL-S12P",
+      "category": "Subwoofer",
+      "audio": {
+        "power_rms_w": 300,
+        "channel_count": 1,
+        "frequency_min_hz": 25,
+        "frequency_max_hz": 200,
+        "impedance_ohm": 2
+      },
+      "connectivity": {
+        "bluetooth_supported": true,
+        "bluetooth_version": "5.2",
+        "usb_supported": false
+      },
+      "features": ["Powered", "Bass Enhancement"],
+      "last_updated_timestamp": "2026-10-14T09:25:00Z"
+    },
+    {
+      "product_id": "AUD-10003",
+      "model_number": "ALP-A400",
+      "category": "Amplifier",
+      "audio": {
+        "power_rms_w": 100,
+        "channel_count": 4,
+        "frequency_min_hz": 20,
+        "frequency_max_hz": 20000,
+        "impedance_ohm": 4
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": false
+      },
+      "features": ["Four Channel", "External Amplifier"],
+      "last_updated_timestamp": "2026-10-14T10:20:00Z"
+    },
+    {
+      "product_id": "AUD-10004",
+      "model_number": "SON-XAV10",
+      "category": "Head Unit",
+      "audio": {
+        "power_rms_w": 50,
+        "channel_count": 4,
+        "frequency_min_hz": 20,
+        "frequency_max_hz": 20000,
+        "impedance_ohm": 4
+      },
+      "connectivity": {
+        "bluetooth_supported": true,
+        "bluetooth_version": "5.3",
+        "usb_supported": true,
+        "apple_carplay": true,
+        "android_auto": true
+      },
+      "features": ["Touchscreen", "Wireless CarPlay", "Android Auto"],
+      "last_updated_timestamp": "2026-10-14T14:40:00Z"
+    },
+    {
+      "product_id": "AUD-10005",
+      "model_number": "AUD-BIT8",
+      "category": "DSP",
+      "audio": {
+        "power_rms_w": null,
+        "channel_count": 8,
+        "frequency_min_hz": 10,
+        "frequency_max_hz": 40000,
+        "impedance_ohm": null
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": true
+      },
+      "features": ["Digital Signal Processing", "Equalization"],
+      "last_updated_timestamp": "2026-10-13T12:25:00Z"
+    },
+    {
+      "product_id": "AUD-10006",
+      "model_number": "SHR-ANC01",
+      "category": "Microphone",
+      "audio": {
+        "power_rms_w": null,
+        "channel_count": 1,
+        "frequency_min_hz": 100,
+        "frequency_max_hz": 10000,
+        "impedance_ohm": 600
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": false
+      },
+      "features": ["Noise Reduction", "Wired"],
+      "last_updated_timestamp": "2026-10-14T07:45:00Z"
+    },
+    {
+      "product_id": "AUD-10007",
+      "model_number": "FCL-165AS",
+      "category": "Speaker",
+      "audio": {
+        "power_rms_w": 80,
+        "channel_count": 2,
+        "frequency_min_hz": 60,
+        "frequency_max_hz": 21000,
+        "impedance_ohm": 4
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": false
+      },
+      "features": ["Component Speaker", "Passive Crossover"],
+      "last_updated_timestamp": "2026-10-13T14:10:00Z"
+    },
+    {
+      "product_id": "AUD-10008",
+      "model_number": "KCK-CW10",
+      "category": "Subwoofer",
+      "audio": {
+        "power_rms_w": 250,
+        "channel_count": 1,
+        "frequency_min_hz": 25,
+        "frequency_max_hz": 150,
+        "impedance_ohm": 2
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": false
+      },
+      "features": ["Compact", "Powered"],
+      "last_updated_timestamp": "2026-10-14T08:15:00Z"
+    },
+    {
+      "product_id": "AUD-10009",
+      "model_number": "PNE-GM-D1",
+      "category": "Amplifier",
+      "audio": {
+        "power_rms_w": 500,
+        "channel_count": 1,
+        "frequency_min_hz": 10,
+        "frequency_max_hz": 250,
+        "impedance_ohm": 2
+      },
+      "connectivity": {
+        "bluetooth_supported": false,
+        "usb_supported": false
+      },
+      "features": ["Monoblock", "Class D"],
+      "last_updated_timestamp": "2026-10-13T16:35:00Z"
+    },
+    {
+      "product_id": "AUD-10010",
+      "model_number": "KNW-DMX9",
+      "category": "Head Unit",
+      "audio": {
+        "power_rms_w": 60,
+        "channel_count": 4,
+        "frequency_min_hz": 20,
+        "frequency_max_hz": 20000,
+        "impedance_ohm": 4
+      },
+      "connectivity": {
+        "bluetooth_supported": true,
+        "bluetooth_version": "5.3",
+        "usb_supported": true,
+        "apple_carplay": true,
+        "android_auto": true
+      },
+      "features": ["Wireless Multimedia", "Touchscreen"],
+      "last_updated_timestamp": "2026-10-14T13:55:00Z"
+    }
+  ]
+}
