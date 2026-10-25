@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplier_batch>
+  <supplier_record>
+    <supplier_id>SUP-1001</supplier_id>
+    <supplier_name>Sound Components India</supplier_name>
+    <country_code>IN</country_code>
+    <city>Bengaluru</city>
+    <payment_terms_days>30</payment_terms_days>
+    <lead_time_days>7</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-13T06:00:00Z</last_updated_timestamp>
+  </supplier_record>
+  <supplier_record>
+    <supplier_id>SUP-1002</supplier_id>
+    <supplier_name>Global Audio Distribution</supplier_name>
+    <country_code>CN</country_code>
+    <city>Shenzhen</city>
+    <payment_terms_days>45</payment_terms_days>
+    <lead_time_days>14</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-14T06:15:00Z</last_updated_timestamp>
+  </supplier_record>
+  <supplier_record>
+    <supplier_id>SUP-1003</supplier_id>
+    <supplier_name>Precision Electronics Asia</supplier_name>
+    <country_code>TH</country_code>
+    <city>Bangkok</city>
+    <payment_terms_days>30</payment_terms_days>
+    <lead_time_days>10</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-13T06:30:00Z</last_updated_timestamp>
+  </supplier_record>
+  <supplier_record>
+    <supplier_id>SUP-1004</supplier_id>
+    <supplier_name>Premium Acoustics Europe</supplier_name>
+    <country_code>IT</country_code>
+    <city>Milan</city>
+    <payment_terms_days>60</payment_terms_days>
+    <lead_time_days>21</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-14T06:45:00Z</last_updated_timestamp>
+  </supplier_record>
+</supplier_batch>
