@@ -1,5 +1,0 @@
-supplier_id,supplier_name,country_code,city,payment_terms_days,lead_time_days,supplier_status,last_updated_timestamp
-SUP-1001,Sound Components India,IN,Bengaluru,30,7,ACTIVE,2026-10-13T06:00:00Z
-SUP-1002,Global Audio Distribution,CN,Shenzhen,45,14,ACTIVE,2026-10-14T06:15:00Z
-SUP-1003,Precision Electronics Asia,TH,Bangkok,30,10,ACTIVE,2026-10-13T06:30:00Z
-SUP-1004,Premium Acoustics Europe,IT,Milan,60,21,ACTIVE,2026-10-14T06:45:00Z
