@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplier_batch>
+  <supplier_record>
+    <supplier_id>SUP-1006</supplier_id>
+    <supplier_name>Apex Audio Components</supplier_name>
+    <country_code>KR</country_code>
+    <city>Seoul</city>
+    <payment_terms_days>30</payment_terms_days>
+    <lead_time_days>12</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-22T07:00:00Z</last_updated_timestamp>
+  </supplier_record>
+  <supplier_record>
+    <supplier_id>SUP-1007</supplier_id>
+    <supplier_name></supplier_name>
+    <country_code>US</country_code>
+    <city>Chicago</city>
+    <payment_terms_days>60</payment_terms_days>
+    <lead_time_days>25</lead_time_days>
+    <supplier_status>ACTIVE</supplier_status>
+    <last_updated_timestamp>2026-10-23T07:30:00Z</last_updated_timestamp>
+  </supplier_record>
+</supplier_batch>
