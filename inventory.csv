@@ -1,0 +1,4 @@
+inventory_id,product_id,warehouse_id,stock_on_hand,stock_reserved,reorder_level,last_updated_timestamp
+INV-006,AUD-10006,WH-MAA-01,260,35,60,2026-10-27T21:15:00Z
+INV-013,AUD-10006,WH-MAA-01,18,2,60,2026-10-27T21:15:00Z
+INV-014,AUD-10012,WH-BLR-01,75,5,20,2026-10-27T21:15:00Z
